@@ -23,23 +23,23 @@ Hosted on AWS Lambda + API Gateway
 
 # 🛠️ Technology Stack
 
-## Language: Python
+### Language: Python
 
-## Cloud Provider: AWS
+### Cloud Provider: AWS
 
-## Compute: AWS Lambda
+### Compute: AWS Lambda
 
-## API Gateway: Public endpoint exposure
+### API Gateway: Public endpoint exposure
 
-## Data Source: Numbers API for fun facts
+### Data Source: Numbers API for fun facts
 
 # 📂 Project Structure
 
-### number-classification-api/
-### │── lambda_function.py  # Main API logic
-### │── requirements.txt    # Dependencies
-### │── README.md           # Documentation
-### │── deployment_package/ # Lambda deployment package
+#### number-classification-api/
+#### │── lambda_function.py  # Main API logic
+#### │── requirements.txt    # Dependencies
+#### │── README.md           # Documentation
+#### │── deployment_package/ # Lambda deployment package
 
 
 # 🔧 Installation & Local Testing
